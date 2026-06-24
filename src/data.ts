@@ -23,7 +23,7 @@ export const educationList: Education[] = [
     institution: "Vignan's Institute of Engineering for Women",
     degree: 'B.Tech in AI & CSE',
     period: '2023 – 2027',
-    grade: '7.10',
+    grade: '7.35',
     gradeType: 'CGPA',
     iconName: 'graduation'
   },
